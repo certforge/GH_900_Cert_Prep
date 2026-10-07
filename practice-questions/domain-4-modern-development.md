@@ -1,16 +1,16 @@
 # Practice Questions - Domain 4 (Modern Development)
 
 ### Question 1
-**Domain**: Domain 4 - Modern Development
-**Topic**: Workflow Structure
-**Difficulty**: Beginner
+**Domain**: Domain 4 - Modern Development  
+**Topic**: Workflow Structure  
+**Difficulty**: Beginner  
 
 Where are GitHub Actions workflows stored?
 
-A. `.github/actions/`
-B. `.github/workflows/`
-C. `.github/scripts/`
-D. `.git/workflows/`
+A. `.github/actions/`  
+B. `.github/workflows/`  
+C. `.github/scripts/`  
+D. `.git/workflows/`  
 
 <details>
 <summary>Answer</summary>
@@ -23,16 +23,16 @@ D. `.git/workflows/`
 </details>
 
 ### Question 2
-**Domain**: Domain 4 - Modern Development
-**Topic**: Action Types
-**Difficulty**: Beginner
+**Domain**: Domain 4 - Modern Development  
+**Topic**: Action Types  
+**Difficulty**: Beginner  
 
 Which action type runs using `using: 'composite'` in `action.yml`?
 
-A. JavaScript action
-B. Docker action
-C. Composite action
-D. Reusable workflow
+A. JavaScript action  
+B. Docker action  
+C. Composite action  
+D. Reusable workflow  
 
 <details>
 <summary>Answer</summary>
@@ -45,16 +45,16 @@ D. Reusable workflow
 </details>
 
 ### Question 3
-**Domain**: Domain 4 - Modern Development
-**Topic**: Artifacts
-**Difficulty**: Beginner
+**Domain**: Domain 4 - Modern Development  
+**Topic**: Artifacts  
+**Difficulty**: Beginner  
 
 Which action is used to upload build output for later download?
 
-A. `actions/cache`
-B. `actions/download-artifact`
-C. `actions/upload-artifact`
-D. `actions/checkout`
+A. `actions/cache`  
+B. `actions/download-artifact`  
+C. `actions/upload-artifact`  
+D. `actions/checkout`  
 
 <details>
 <summary>Answer</summary>
@@ -67,16 +67,16 @@ D. `actions/checkout`
 </details>
 
 ### Question 4
-**Domain**: Domain 4 - Modern Development
-**Topic**: Triggers
-**Difficulty**: Beginner
+**Domain**: Domain 4 - Modern Development  
+**Topic**: Triggers  
+**Difficulty**: Beginner  
 
 Which event trigger allows manual runs with inputs?
 
-A. `schedule`
-B. `workflow_dispatch`
-C. `workflow_call`
-D. `release`
+A. `schedule`  
+B. `workflow_dispatch`  
+C. `workflow_call`  
+D. `release`  
 
 <details>
 <summary>Answer</summary>
@@ -89,16 +89,16 @@ D. `release`
 </details>
 
 ### Question 5
-**Domain**: Domain 4 - Modern Development
-**Topic**: Tokens
-**Difficulty**: Beginner
+**Domain**: Domain 4 - Modern Development  
+**Topic**: Tokens  
+**Difficulty**: Beginner  
 
 What is `GITHUB_TOKEN`?
 
-A. A personal access token stored in secrets
-B. A token generated for each workflow run
-C. A permanent token for org admins only
-D. A token for GitHub Packages only
+A. A personal access token stored in secrets  
+B. A token generated for each workflow run  
+C. A permanent token for org admins only  
+D. A token for GitHub Packages only  
 
 <details>
 <summary>Answer</summary>
@@ -111,16 +111,16 @@ D. A token for GitHub Packages only
 </details>
 
 ### Question 6
-**Domain**: Domain 4 - Modern Development
-**Topic**: Marketplace
-**Difficulty**: Beginner
+**Domain**: Domain 4 - Modern Development  
+**Topic**: Marketplace  
+**Difficulty**: Beginner  
 
 What does the Verified Creator badge indicate in GitHub Marketplace?
 
-A. The action is owned by GitHub only
-B. The publisher identity has been verified by GitHub
-C. The action is open-source only
-D. The action has no dependencies
+A. The action is owned by GitHub only  
+B. The publisher identity has been verified by GitHub  
+C. The action is open-source only  
+D. The action has no dependencies  
 
 <details>
 <summary>Answer</summary>
@@ -133,16 +133,16 @@ D. The action has no dependencies
 </details>
 
 ### Question 7
-**Domain**: Domain 4 - Modern Development
-**Topic**: Caching
-**Difficulty**: Beginner
+**Domain**: Domain 4 - Modern Development  
+**Topic**: Caching  
+**Difficulty**: Beginner  
 
 Which action is used to cache dependencies?
 
-A. `actions/cache`
-B. `actions/checkout`
-C. `actions/setup-node`
-D. `actions/upload-artifact`
+A. `actions/cache`  
+B. `actions/checkout`  
+C. `actions/setup-node`  
+D. `actions/upload-artifact`  
 
 <details>
 <summary>Answer</summary>
@@ -155,16 +155,16 @@ D. `actions/upload-artifact`
 </details>
 
 ### Question 8
-**Domain**: Domain 4 - Modern Development
-**Topic**: Workflow Dispatch
-**Difficulty**: Beginner
+**Domain**: Domain 4 - Modern Development  
+**Topic**: Workflow Dispatch  
+**Difficulty**: Beginner  
 
 Which file location is required for Actions workflows?
 
-A. `.github/workflows/*.yml`
-B. `.github/actions/*.yml`
-C. `.github/ci/*.yml`
-D. `.ci/workflows/*.yml`
+A. `.github/workflows/*.yml`  
+B. `.github/actions/*.yml`  
+C. `.github/ci/*.yml`  
+D. `.ci/workflows/*.yml`  
 
 <details>
 <summary>Answer</summary>
@@ -177,16 +177,16 @@ D. `.ci/workflows/*.yml`
 </details>
 
 ### Question 9
-**Domain**: Domain 4 - Modern Development
-**Topic**: Reusable Workflows
-**Difficulty**: Beginner
+**Domain**: Domain 4 - Modern Development  
+**Topic**: Reusable Workflows  
+**Difficulty**: Beginner  
 
 Which trigger enables a workflow to be called by another workflow?
 
-A. `workflow_run`
-B. `workflow_call`
-C. `workflow_dispatch`
-D. `schedule`
+A. `workflow_run`  
+B. `workflow_call`  
+C. `workflow_dispatch`  
+D. `schedule`  
 
 <details>
 <summary>Answer</summary>
@@ -199,16 +199,16 @@ D. `schedule`
 </details>
 
 ### Question 10
-**Domain**: Domain 4 - Modern Development
-**Topic**: Permissions
-**Difficulty**: Beginner
+**Domain**: Domain 4 - Modern Development  
+**Topic**: Permissions  
+**Difficulty**: Beginner  
 
 Where are default workflow permissions configured for a repository?
 
-A. Actions tab run logs
-B. Repository settings under Actions
-C. Issues settings
-D. Pull request templates
+A. Actions tab run logs  
+B. Repository settings under Actions  
+C. Issues settings  
+D. Pull request templates  
 
 <details>
 <summary>Answer</summary>
@@ -221,16 +221,16 @@ D. Pull request templates
 </details>
 
 ### Question 11
-**Domain**: Domain 4 - Modern Development
-**Topic**: Codespaces
-**Difficulty**: Beginner
+**Domain**: Domain 4 - Modern Development  
+**Topic**: Codespaces  
+**Difficulty**: Beginner  
 
 What file defines the dev container configuration for Codespaces?
 
-A. `docker-compose.yml`
-B. `devcontainer.json`
-C. `.github/workflows/ci.yml`
-D. `package.json`
+A. `docker-compose.yml`  
+B. `devcontainer.json`  
+C. `.github/workflows/ci.yml`  
+D. `package.json`  
 
 <details>
 <summary>Answer</summary>
@@ -242,16 +242,16 @@ D. `package.json`
 </details>
 
 ### Question 12
-**Domain**: Domain 4 - Modern Development
-**Topic**: Runners
-**Difficulty**: Beginner
+**Domain**: Domain 4 - Modern Development  
+**Topic**: Runners  
+**Difficulty**: Beginner  
 
 Which runner type is managed and maintained by GitHub?
 
-A. Self-hosted runners
-B. GitHub-hosted runners
-C. Ephemeral runners only
-D. Private runners only
+A. Self-hosted runners  
+B. GitHub-hosted runners  
+C. Ephemeral runners only  
+D. Private runners only  
 
 <details>
 <summary>Answer</summary>

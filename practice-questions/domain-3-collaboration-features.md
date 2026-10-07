@@ -1,16 +1,16 @@
 # Practice Questions - Domain 3 (Collaboration Features)
 
 ### Question 1
-**Domain**: Domain 3 - Collaboration Features
-**Topic**: Pull Requests
-**Difficulty**: Beginner
+**Domain**: Domain 3 - Collaboration Features  
+**Topic**: Pull Requests  
+**Difficulty**: Beginner  
 
 What is the primary purpose of a pull request?
 
-A. Create a tag
-B. Propose changes for review and merge
-C. Create a release
-D. Store secrets
+A. Create a tag  
+B. Propose changes for review and merge  
+C. Create a release  
+D. Store secrets  
 
 <details>
 <summary>Answer</summary>
@@ -23,16 +23,16 @@ D. Store secrets
 </details>
 
 ### Question 2
-**Domain**: Domain 3 - Collaboration Features
-**Topic**: Reviews
-**Difficulty**: Beginner
+**Domain**: Domain 3 - Collaboration Features  
+**Topic**: Reviews  
+**Difficulty**: Beginner  
 
 Which review option blocks merging until updates are made?
 
-A. Comment
-B. Approve
-C. Request changes
-D. Subscribe
+A. Comment  
+B. Approve  
+C. Request changes  
+D. Subscribe  
 
 <details>
 <summary>Answer</summary>
@@ -45,16 +45,16 @@ D. Subscribe
 </details>
 
 ### Question 3
-**Domain**: Domain 3 - Collaboration Features
-**Topic**: Issues
-**Difficulty**: Beginner
+**Domain**: Domain 3 - Collaboration Features  
+**Topic**: Issues  
+**Difficulty**: Beginner  
 
 Which feature is commonly used to track bugs and tasks?
 
-A. Issues
-B. Packages
-C. Releases
-D. Wiki
+A. Issues  
+B. Packages  
+C. Releases  
+D. Wiki  
 
 <details>
 <summary>Answer</summary>
@@ -67,16 +67,16 @@ D. Wiki
 </details>
 
 ### Question 4
-**Domain**: Domain 3 - Collaboration Features
-**Topic**: Mentions
-**Difficulty**: Beginner
+**Domain**: Domain 3 - Collaboration Features  
+**Topic**: Mentions  
+**Difficulty**: Beginner  
 
 What does `@team-name` do in a comment?
 
-A. Creates a branch
-B. Mentions and notifies a team
-C. Creates a label
-D. Starts a workflow
+A. Creates a branch  
+B. Mentions and notifies a team  
+C. Creates a label  
+D. Starts a workflow  
 
 <details>
 <summary>Answer</summary>
@@ -85,20 +85,20 @@ D. Starts a workflow
 
 **Explanation:** Mentions notify users or teams.
 
-**Reference:** https://docs.github.com/en/organizations/organizing-members-into-teams/mentioning-teams-and-people
+**Reference:** https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams#team-visibility
 </details>
 
 ### Question 5
-**Domain**: Domain 3 - Collaboration Features
-**Topic**: Discussions
-**Difficulty**: Beginner
+**Domain**: Domain 3 - Collaboration Features  
+**Topic**: Discussions  
+**Difficulty**: Beginner  
 
 Which discussion category allows marking an answer?
 
-A. General
-B. Announcement
-C. Q&A
-D. Ideas
+A. General  
+B. Announcement  
+C. Q&A  
+D. Ideas  
 
 <details>
 <summary>Answer</summary>
@@ -111,16 +111,16 @@ D. Ideas
 </details>
 
 ### Question 6
-**Domain**: Domain 3 - Collaboration Features
-**Topic**: Merge Methods
-**Difficulty**: Beginner
+**Domain**: Domain 3 - Collaboration Features  
+**Topic**: Merge Methods  
+**Difficulty**: Beginner  
 
 Which merge method results in a single commit for the PR?
 
-A. Merge commit
-B. Squash merge
-C. Rebase and merge
-D. Fast-forward only
+A. Merge commit  
+B. Squash merge  
+C. Rebase and merge  
+D. Fast-forward only  
 
 <details>
 <summary>Answer</summary>
@@ -133,16 +133,16 @@ D. Fast-forward only
 </details>
 
 ### Question 7
-**Domain**: Domain 3 - Collaboration Features
-**Topic**: Draft PRs
-**Difficulty**: Beginner
+**Domain**: Domain 3 - Collaboration Features  
+**Topic**: Draft PRs  
+**Difficulty**: Beginner  
 
 What does a draft PR indicate?
 
-A. The PR is ready to merge
-B. The PR is blocked by checks
-C. The PR is not ready for review
-D. The PR has been merged
+A. The PR is ready to merge  
+B. The PR is blocked by checks  
+C. The PR is not ready for review  
+D. The PR has been merged  
 
 <details>
 <summary>Answer</summary>
@@ -155,16 +155,16 @@ D. The PR has been merged
 </details>
 
 ### Question 8
-**Domain**: Domain 3 - Collaboration Features
-**Topic**: Issue References
-**Difficulty**: Beginner
+**Domain**: Domain 3 - Collaboration Features  
+**Topic**: Issue References  
+**Difficulty**: Beginner  
 
 Which phrase closes an issue when a PR is merged?
 
-A. `Fixes #123`
-B. `For #123`
-C. `Discuss #123`
-D. `See #123`
+A. `Fixes #123`  
+B. `For #123`  
+C. `Discuss #123`  
+D. `See #123`  
 
 <details>
 <summary>Answer</summary>
@@ -177,16 +177,16 @@ D. `See #123`
 </details>
 
 ### Question 9
-**Domain**: Domain 3 - Collaboration Features
-**Topic**: Notifications
-**Difficulty**: Beginner
+**Domain**: Domain 3 - Collaboration Features  
+**Topic**: Notifications  
+**Difficulty**: Beginner  
 
 Where do you manage notification settings?
 
-A. Repo Actions settings
-B. Global notification settings
-C. Billing settings
-D. Security settings only
+A. Repo Actions settings  
+B. Global notification settings  
+C. Billing settings  
+D. Security settings only  
 
 <details>
 <summary>Answer</summary>
@@ -199,16 +199,16 @@ D. Security settings only
 </details>
 
 ### Question 10
-**Domain**: Domain 3 - Collaboration Features
-**Topic**: Suggestions
-**Difficulty**: Beginner
+**Domain**: Domain 3 - Collaboration Features  
+**Topic**: Suggestions  
+**Difficulty**: Beginner  
 
 What is the purpose of a suggested change in a PR review?
 
-A. Add a commit automatically without review
-B. Allow reviewers to propose edits inline
-C. Create a new branch automatically
-D. Trigger a workflow
+A. Add a commit automatically without review  
+B. Allow reviewers to propose edits inline  
+C. Create a new branch automatically  
+D. Trigger a workflow  
 
 <details>
 <summary>Answer</summary>

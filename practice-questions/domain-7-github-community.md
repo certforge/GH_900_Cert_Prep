@@ -1,16 +1,16 @@
 # Practice Questions - Domain 7 (Benefits of the GitHub Community)
 
 ### Question 1
-**Domain**: Domain 7 - Benefits of the GitHub Community
-**Topic**: Community Standards
-**Difficulty**: Beginner
+**Domain**: Domain 7 - Benefits of the GitHub Community  
+**Topic**: Community Standards  
+**Difficulty**: Beginner  
 
 Which file defines expected behavior in a community?
 
-A. LICENSE
-B. CODE_OF_CONDUCT.md
-C. SECURITY.md
-D. README.md
+A. LICENSE  
+B. CODE_OF_CONDUCT.md  
+C. SECURITY.md  
+D. README.md  
 
 <details>
 <summary>Answer</summary>
@@ -23,16 +23,16 @@ D. README.md
 </details>
 
 ### Question 2
-**Domain**: Domain 7 - Benefits of the GitHub Community
-**Topic**: Contributing
-**Difficulty**: Beginner
+**Domain**: Domain 7 - Benefits of the GitHub Community  
+**Topic**: Contributing  
+**Difficulty**: Beginner  
 
 Which file typically explains how to contribute?
 
-A. CONTRIBUTING.md
-B. LICENSE
-C. SECURITY.md
-D. README.md
+A. CONTRIBUTING.md  
+B. LICENSE  
+C. SECURITY.md  
+D. README.md  
 
 <details>
 <summary>Answer</summary>
@@ -45,16 +45,16 @@ D. README.md
 </details>
 
 ### Question 3
-**Domain**: Domain 7 - Benefits of the GitHub Community
-**Topic**: Licenses
-**Difficulty**: Beginner
+**Domain**: Domain 7 - Benefits of the GitHub Community  
+**Topic**: Licenses  
+**Difficulty**: Beginner  
 
 What is the primary purpose of a LICENSE file?
 
-A. Define CI pipelines
-B. Define usage rights and restrictions
-C. Enable 2FA
-D. Store secrets
+A. Define CI pipelines  
+B. Define usage rights and restrictions  
+C. Enable 2FA  
+D. Store secrets  
 
 <details>
 <summary>Answer</summary>
@@ -67,16 +67,16 @@ D. Store secrets
 </details>
 
 ### Question 4
-**Domain**: Domain 7 - Benefits of the GitHub Community
-**Topic**: Forks
-**Difficulty**: Beginner
+**Domain**: Domain 7 - Benefits of the GitHub Community  
+**Topic**: Forks  
+**Difficulty**: Beginner  
 
 Why do contributors fork a repository?
 
-A. To create a new issue
-B. To create a personal copy for changes
-C. To enable Actions
-D. To add a release
+A. To create a new issue  
+B. To create a personal copy for changes  
+C. To enable Actions  
+D. To add a release  
 
 <details>
 <summary>Answer</summary>
@@ -89,16 +89,16 @@ D. To add a release
 </details>
 
 ### Question 5
-**Domain**: Domain 7 - Benefits of the GitHub Community
-**Topic**: Stars
-**Difficulty**: Beginner
+**Domain**: Domain 7 - Benefits of the GitHub Community  
+**Topic**: Stars  
+**Difficulty**: Beginner  
 
 What does starring a repository do?
 
-A. Clones the repo
-B. Shows interest and bookmarks the repo
-C. Creates a release
-D. Adds a collaborator
+A. Clones the repo  
+B. Shows interest and bookmarks the repo  
+C. Creates a release  
+D. Adds a collaborator  
 
 <details>
 <summary>Answer</summary>
@@ -111,16 +111,16 @@ D. Adds a collaborator
 </details>
 
 ### Question 6
-**Domain**: Domain 7 - Benefits of the GitHub Community
-**Topic**: Discussions
-**Difficulty**: Beginner
+**Domain**: Domain 7 - Benefits of the GitHub Community  
+**Topic**: Discussions  
+**Difficulty**: Beginner  
 
 What is a good use case for GitHub Discussions?
 
-A. CI builds only
-B. Long-form Q&A and community feedback
-C. Managing secrets
-D. Packaging releases
+A. CI builds only  
+B. Long-form Q&A and community feedback  
+C. Managing secrets  
+D. Packaging releases  
 
 <details>
 <summary>Answer</summary>
@@ -133,16 +133,16 @@ D. Packaging releases
 </details>
 
 ### Question 7
-**Domain**: Domain 7 - Benefits of the GitHub Community
-**Topic**: README
-**Difficulty**: Beginner
+**Domain**: Domain 7 - Benefits of the GitHub Community  
+**Topic**: README  
+**Difficulty**: Beginner  
 
 Which item is typically included in a README?
 
-A. Billing details
-B. Project overview and usage instructions
-C. Audit log export
-D. Runner registration tokens
+A. Billing details  
+B. Project overview and usage instructions  
+C. Audit log export  
+D. Runner registration tokens  
 
 <details>
 <summary>Answer</summary>
@@ -155,16 +155,16 @@ D. Runner registration tokens
 </details>
 
 ### Question 8
-**Domain**: Domain 7 - Benefits of the GitHub Community
-**Topic**: Community Health
-**Difficulty**: Beginner
+**Domain**: Domain 7 - Benefits of the GitHub Community  
+**Topic**: Community Health  
+**Difficulty**: Beginner  
 
 Which is a community health file?
 
-A. CODEOWNERS
-B. CONTRIBUTING.md
-C. Dockerfile
-D. package.json
+A. CODEOWNERS  
+B. CONTRIBUTING.md  
+C. Dockerfile  
+D. package.json  
 
 <details>
 <summary>Answer</summary>
@@ -173,20 +173,20 @@ D. package.json
 
 **Explanation:** CONTRIBUTING.md is a community health file.
 
-**Reference:** https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/about-community-health-files
+**Reference:** https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file
 </details>
 
 ### Question 9
-**Domain**: Domain 7 - Benefits of the GitHub Community
-**Topic**: Issue Templates
-**Difficulty**: Beginner
+**Domain**: Domain 7 - Benefits of the GitHub Community  
+**Topic**: Issue Templates  
+**Difficulty**: Beginner  
 
 Why use issue templates?
 
-A. To auto-merge PRs
-B. To standardize issue reporting
-C. To delete stale issues
-D. To bypass reviews
+A. To auto-merge PRs  
+B. To standardize issue reporting  
+C. To delete stale issues  
+D. To bypass reviews  
 
 <details>
 <summary>Answer</summary>
@@ -199,16 +199,16 @@ D. To bypass reviews
 </details>
 
 ### Question 10
-**Domain**: Domain 7 - Benefits of the GitHub Community
-**Topic**: Code of Conduct
-**Difficulty**: Beginner
+**Domain**: Domain 7 - Benefits of the GitHub Community  
+**Topic**: Code of Conduct  
+**Difficulty**: Beginner  
 
 Where can a code of conduct be surfaced in a repository?
 
-A. In GitHub Actions logs only
-B. As a CODE_OF_CONDUCT.md file
-C. Inside dependabot.yml
-D. As a wiki-only page
+A. In GitHub Actions logs only  
+B. As a CODE_OF_CONDUCT.md file  
+C. Inside dependabot.yml  
+D. As a wiki-only page  
 
 <details>
 <summary>Answer</summary>

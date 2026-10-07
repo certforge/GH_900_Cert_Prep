@@ -1,16 +1,16 @@
 # Practice Questions - Domain 1 (Introduction to Git and GitHub)
 
 ### Question 1
-**Domain**: Domain 1 - Introduction to Git and GitHub
-**Topic**: Git vs GitHub
-**Difficulty**: Beginner
+**Domain**: Domain 1 - Introduction to Git and GitHub  
+**Topic**: Git vs GitHub  
+**Difficulty**: Beginner  
 
 A developer says they can collaborate on a repo without internet access because they use Git. Which statement is correct?
 
-A. Git requires GitHub for all operations
-B. Git can track history locally without GitHub
-C. GitHub is the version control engine
-D. Git is only for cloud-hosted repos
+A. Git requires GitHub for all operations  
+B. Git can track history locally without GitHub  
+C. GitHub is the version control engine  
+D. Git is only for cloud-hosted repos  
 
 <details>
 <summary>Answer</summary>
@@ -23,16 +23,16 @@ D. Git is only for cloud-hosted repos
 </details>
 
 ### Question 2
-**Domain**: Domain 1 - Introduction to Git and GitHub
-**Topic**: Repository Visibility
-**Difficulty**: Beginner
+**Domain**: Domain 1 - Introduction to Git and GitHub  
+**Topic**: Repository Visibility  
+**Difficulty**: Beginner  
 
 Which visibility option is only available to enterprise members and not the public?
 
-A. Public
-B. Private
-C. Internal
-D. Secret
+A. Public  
+B. Private  
+C. Internal  
+D. Secret  
 
 <details>
 <summary>Answer</summary>
@@ -45,16 +45,16 @@ D. Secret
 </details>
 
 ### Question 3
-**Domain**: Domain 1 - Introduction to Git and GitHub
-**Topic**: Accounts
-**Difficulty**: Beginner
+**Domain**: Domain 1 - Introduction to Git and GitHub  
+**Topic**: Accounts  
+**Difficulty**: Beginner  
 
 A team wants shared ownership and role-based access to repos. Which account type is best?
 
-A. Personal user account
-B. Organization
-C. Gist
-D. Fork
+A. Personal user account  
+B. Organization  
+C. Gist  
+D. Fork  
 
 <details>
 <summary>Answer</summary>
@@ -67,16 +67,16 @@ D. Fork
 </details>
 
 ### Question 4
-**Domain**: Domain 1 - Introduction to Git and GitHub
-**Topic**: GitHub Products
-**Difficulty**: Beginner
+**Domain**: Domain 1 - Introduction to Git and GitHub  
+**Topic**: GitHub Products  
+**Difficulty**: Beginner  
 
 Which GitHub product provides cloud-hosted development environments?
 
-A. GitHub Desktop
-B. GitHub Codespaces
-C. GitHub Pages
-D. GitHub Mobile
+A. GitHub Desktop  
+B. GitHub Codespaces  
+C. GitHub Pages  
+D. GitHub Mobile  
 
 <details>
 <summary>Answer</summary>
@@ -89,16 +89,16 @@ D. GitHub Mobile
 </details>
 
 ### Question 5
-**Domain**: Domain 1 - Introduction to Git and GitHub
-**Topic**: GitHub Flavored Markdown
-**Difficulty**: Beginner
+**Domain**: Domain 1 - Introduction to Git and GitHub  
+**Topic**: GitHub Flavored Markdown  
+**Difficulty**: Beginner  
 
 Which syntax creates a task list item in GFM?
 
-A. `* ( ) task`
-B. `- [ ] task`
-C. `- { } task`
-D. `# task`
+A. `* ( ) task`  
+B. `- [ ] task`  
+C. `- { } task`  
+D. `# task`  
 
 <details>
 <summary>Answer</summary>
@@ -111,16 +111,16 @@ D. `# task`
 </details>
 
 ### Question 6
-**Domain**: Domain 1 - Introduction to Git and GitHub
-**Topic**: Fork vs Clone
-**Difficulty**: Beginner
+**Domain**: Domain 1 - Introduction to Git and GitHub  
+**Topic**: Fork vs Clone  
+**Difficulty**: Beginner  
 
 Which statement best describes a fork?
 
-A. A local copy of a repo on your machine
-B. A separate GitHub repo under your account
-C. A tag applied to a commit
-D. A branch created from main
+A. A local copy of a repo on your machine  
+B. A separate GitHub repo under your account  
+C. A tag applied to a commit  
+D. A branch created from main  
 
 <details>
 <summary>Answer</summary>
@@ -133,16 +133,16 @@ D. A branch created from main
 </details>
 
 ### Question 7
-**Domain**: Domain 1 - Introduction to Git and GitHub
-**Topic**: GitHub Pages
-**Difficulty**: Beginner
+**Domain**: Domain 1 - Introduction to Git and GitHub  
+**Topic**: GitHub Pages  
+**Difficulty**: Beginner  
 
 What is GitHub Pages primarily used for?
 
-A. Hosting static websites from a repo
-B. Running CI/CD pipelines
-C. Storing container images
-D. Managing private wikis only
+A. Hosting static websites from a repo  
+B. Running CI/CD pipelines  
+C. Storing container images  
+D. Managing private wikis only  
 
 <details>
 <summary>Answer</summary>
@@ -155,16 +155,16 @@ D. Managing private wikis only
 </details>
 
 ### Question 8
-**Domain**: Domain 1 - Introduction to Git and GitHub
-**Topic**: GitHub Packages
-**Difficulty**: Beginner
+**Domain**: Domain 1 - Introduction to Git and GitHub  
+**Topic**: GitHub Packages  
+**Difficulty**: Beginner  
 
 GitHub Packages is used to:
 
-A. Run workflows
-B. Host packages and container images
-C. Manage issues only
-D. Provide SSO authentication
+A. Run workflows  
+B. Host packages and container images  
+C. Manage issues only  
+D. Provide SSO authentication  
 
 <details>
 <summary>Answer</summary>
@@ -177,16 +177,16 @@ D. Provide SSO authentication
 </details>
 
 ### Question 9
-**Domain**: Domain 1 - Introduction to Git and GitHub
-**Topic**: Codespaces
-**Difficulty**: Beginner
+**Domain**: Domain 1 - Introduction to Git and GitHub  
+**Topic**: Codespaces  
+**Difficulty**: Beginner  
 
 GitHub Codespaces provides:
 
-A. On-premises Git hosting
-B. Cloud-hosted development environments
-C. A package registry only
-D. A wiki system for docs
+A. On-premises Git hosting  
+B. Cloud-hosted development environments  
+C. A package registry only  
+D. A wiki system for docs  
 
 <details>
 <summary>Answer</summary>
@@ -199,16 +199,16 @@ D. A wiki system for docs
 </details>
 
 ### Question 10
-**Domain**: Domain 1 - Introduction to Git and GitHub
-**Topic**: GitHub CLI
-**Difficulty**: Beginner
+**Domain**: Domain 1 - Introduction to Git and GitHub  
+**Topic**: GitHub CLI  
+**Difficulty**: Beginner  
 
 Which tool is the official GitHub CLI?
 
-A. git
-B. gh
-C. hub
-D. gho
+A. git  
+B. gh  
+C. hub  
+D. gho  
 
 <details>
 <summary>Answer</summary>

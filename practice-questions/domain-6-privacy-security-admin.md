@@ -1,16 +1,16 @@
 # Practice Questions - Domain 6 (Privacy, Security, and Administration)
 
 ### Question 1
-**Domain**: Domain 6 - Privacy, Security, and Administration
-**Topic**: Authentication
-**Difficulty**: Beginner
+**Domain**: Domain 6 - Privacy, Security, and Administration  
+**Topic**: Authentication  
+**Difficulty**: Beginner  
 
 Which authentication method is commonly used for Git operations without a password?
 
-A. OAuth token
-B. SSH key
-C. SSO session
-D. GitHub Actions token
+A. OAuth token  
+B. SSH key  
+C. SSO session  
+D. GitHub Actions token  
 
 <details>
 <summary>Answer</summary>
@@ -23,16 +23,16 @@ D. GitHub Actions token
 </details>
 
 ### Question 2
-**Domain**: Domain 6 - Privacy, Security, and Administration
-**Topic**: PAT Types
-**Difficulty**: Beginner
+**Domain**: Domain 6 - Privacy, Security, and Administration  
+**Topic**: PAT Types  
+**Difficulty**: Beginner  
 
 Which PAT type allows repo-specific, permission-specific scope?
 
-A. Classic PAT
-B. Fine-grained PAT
-C. OAuth token
-D. SSH key
+A. Classic PAT  
+B. Fine-grained PAT  
+C. OAuth token  
+D. SSH key  
 
 <details>
 <summary>Answer</summary>
@@ -45,16 +45,16 @@ D. SSH key
 </details>
 
 ### Question 3
-**Domain**: Domain 6 - Privacy, Security, and Administration
-**Topic**: Secret Scanning
-**Difficulty**: Beginner
+**Domain**: Domain 6 - Privacy, Security, and Administration  
+**Topic**: Secret Scanning  
+**Difficulty**: Beginner  
 
 What does push protection do?
 
-A. Scans code only after merge
-B. Blocks pushes that contain secrets
-C. Requires code owner approval
-D. Encrypts the repository
+A. Scans code only after merge  
+B. Blocks pushes that contain secrets  
+C. Requires code owner approval  
+D. Encrypts the repository  
 
 <details>
 <summary>Answer</summary>
@@ -67,16 +67,16 @@ D. Encrypts the repository
 </details>
 
 ### Question 4
-**Domain**: Domain 6 - Privacy, Security, and Administration
-**Topic**: Dependabot
-**Difficulty**: Beginner
+**Domain**: Domain 6 - Privacy, Security, and Administration  
+**Topic**: Dependabot  
+**Difficulty**: Beginner  
 
 Which Dependabot feature opens PRs to update vulnerable dependencies?
 
-A. Alerts
-B. Security updates
-C. Version updates
-D. Code scanning
+A. Alerts  
+B. Security updates  
+C. Version updates  
+D. Code scanning  
 
 <details>
 <summary>Answer</summary>
@@ -89,16 +89,16 @@ D. Code scanning
 </details>
 
 ### Question 5
-**Domain**: Domain 6 - Privacy, Security, and Administration
-**Topic**: Security Policy
-**Difficulty**: Beginner
+**Domain**: Domain 6 - Privacy, Security, and Administration  
+**Topic**: Security Policy  
+**Difficulty**: Beginner  
 
 What file describes how to report a vulnerability?
 
-A. `CODEOWNERS`
-B. `SECURITY.md`
-C. `LICENSE`
-D. `README.md`
+A. `CODEOWNERS`  
+B. `SECURITY.md`  
+C. `LICENSE`  
+D. `README.md`  
 
 <details>
 <summary>Answer</summary>
@@ -111,16 +111,16 @@ D. `README.md`
 </details>
 
 ### Question 6
-**Domain**: Domain 6 - Privacy, Security, and Administration
-**Topic**: PAT Types
-**Difficulty**: Beginner
+**Domain**: Domain 6 - Privacy, Security, and Administration  
+**Topic**: PAT Types  
+**Difficulty**: Beginner  
 
 Which PAT type allows permissions to be restricted to specific repositories?
 
-A. Classic PAT
-B. Fine-grained PAT
-C. OAuth app token
-D. SSH key
+A. Classic PAT  
+B. Fine-grained PAT  
+C. OAuth app token  
+D. SSH key  
 
 <details>
 <summary>Answer</summary>
@@ -133,16 +133,16 @@ D. SSH key
 </details>
 
 ### Question 7
-**Domain**: Domain 6 - Privacy, Security, and Administration
-**Topic**: Secret Scanning
-**Difficulty**: Beginner
+**Domain**: Domain 6 - Privacy, Security, and Administration  
+**Topic**: Secret Scanning  
+**Difficulty**: Beginner  
 
 What happens when push protection detects a secret?
 
-A. The push is blocked with a bypass option
-B. The repo is deleted
-C. The user is removed from the org
-D. A release is created
+A. The push is blocked with a bypass option  
+B. The repo is deleted  
+C. The user is removed from the org  
+D. A release is created  
 
 <details>
 <summary>Answer</summary>
@@ -161,10 +161,10 @@ D. A release is created
 
 Which file configures version update schedules for Dependabot?
 
-A. `.github/dependabot.yml`
-B. `.github/actions.yml`
-C. `SECURITY.md`
-D. `.github/workflows/dependabot.yml`
+A. `.github/dependabot.yml`  
+B. `.github/actions.yml`  
+C. `SECURITY.md`  
+D. `.github/workflows/dependabot.yml`  
 
 <details>
 <summary>Answer</summary>
@@ -177,16 +177,16 @@ D. `.github/workflows/dependabot.yml`
 </details>
 
 ### Question 9
-**Domain**: Domain 6 - Privacy, Security, and Administration
-**Topic**: Code Scanning
-**Difficulty**: Beginner
+**Domain**: Domain 6 - Privacy, Security, and Administration  
+**Topic**: Code Scanning  
+**Difficulty**: Beginner  
 
 What is CodeQL in GitHub?
 
-A. A package manager
-B. A static analysis engine for code scanning
-C. A branching strategy
-D. A workflow trigger
+A. A package manager  
+B. A static analysis engine for code scanning  
+C. A branching strategy  
+D. A workflow trigger  
 
 <details>
 <summary>Answer</summary>
@@ -199,16 +199,16 @@ D. A workflow trigger
 </details>
 
 ### Question 10
-**Domain**: Domain 6 - Privacy, Security, and Administration
-**Topic**: 2FA Enforcement
-**Difficulty**: Beginner
+**Domain**: Domain 6 - Privacy, Security, and Administration  
+**Topic**: 2FA Enforcement  
+**Difficulty**: Beginner  
 
 Where do organization owners enforce 2FA?
 
-A. Repo settings
-B. Organization security settings
-C. GitHub Actions settings
-D. Issues settings
+A. Repo settings  
+B. Organization security settings  
+C. GitHub Actions settings  
+D. Issues settings  
 
 <details>
 <summary>Answer</summary>
